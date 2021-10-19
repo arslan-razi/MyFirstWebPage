@@ -9,3 +9,12 @@ body {
     text-align: center;
 
 }
+
+img {
+display: flex;
+flex-wrap: wrap;
+margin: 0 auto;
+width: 80%;
+height: auto;
+
+}
