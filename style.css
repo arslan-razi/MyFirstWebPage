@@ -18,3 +18,11 @@ width: 80%;
 height: auto;
 
 }
+
+/* Always at the bottom of css file */
+
+@media screen and (max-width: 600px) {
+    body {
+       background: red;
+    }
+ }
